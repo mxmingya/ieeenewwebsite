@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.repos;
 
 /**
  * Created by mingyama on 4/5/18.
@@ -7,6 +7,7 @@ package com.example.demo;
 /**
  * Created by mingyama on 4/4/18.
  */
+import com.example.demo.model.Member;
 import org.springframework.data.repository.CrudRepository;
 
 import javax.transaction.Transactional;

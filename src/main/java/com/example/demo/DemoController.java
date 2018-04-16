@@ -4,6 +4,8 @@ package com.example.demo;
  * Created by mingyama on 4/5/18.
  */
 
+import com.example.demo.model.Member;
+import com.example.demo.repos.MemberRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 
