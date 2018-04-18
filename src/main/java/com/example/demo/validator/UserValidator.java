@@ -11,7 +11,7 @@ import org.springframework.validation.Validator;
 /*
     our custome data validator, implements org.springframework.validation.Validator;
     base codes are borrowed from @https://hellokoding.com/registration-and-login-example-with-spring-security-spring-boot-spring-data-jpa-hsql-jsp/
-
+    another good example is this one: http://www.baeldung.com/registration-with-spring-mvc-and-spring-security
  */
 @Component
 public class UserValidator implements Validator {
