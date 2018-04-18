@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.controller;
 
 /**
  * Created by mingyama on 4/5/18.
